@@ -6,6 +6,7 @@ A collection of cool software and programs that I use.
 
 - [What I Use](#what-i-use)
   - [Tools and extensions](#tools-and-extensions)
+    - [Bash](#bash)
     - [Markdown](#markdown)
     - [YAML](#yaml)
   - [License](#license)
@@ -13,6 +14,15 @@ A collection of cool software and programs that I use.
 ---
 
 ## Tools and extensions
+
+### Bash
+
+| Name                   | URL                                                                             |
+| :--------------------- | :------------------------------------------------------------------------------ |
+| shfmt                  | <https://github.com/mvdan/sh>                                                   |
+| ShellCheck             | <https://github.com/koalaman/shellcheck>                                        |
+| VS Code - ShellCheck   | <https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck>      |
+| VS Code - shell-format | <https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format> |
 
 ### Markdown
 
