@@ -9,6 +9,7 @@ A collection of cool software and programs that I use.
     - [Bash](#bash)
     - [Markdown](#markdown)
     - [YAML](#yaml)
+  - [Software](#software)
   - [License](#license)
 
 ---
@@ -39,6 +40,13 @@ A collection of cool software and programs that I use.
 | :------- | :---------------------------------------- |
 | yamllint | <https://github.com/adrienverge/yamllint> |
 | yq       | <https://github.com/mikefarah/yq>         |
+
+## Software
+
+| Name               | URL                              |
+| :----------------- | :------------------------------- |
+| Visual Studio Code | <https://code.visualstudio.com/> |
+| Zed                | <https://zed.dev/>               |
 
 ## License
 
