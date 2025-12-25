@@ -5,16 +5,16 @@ A collection of cool software and programs that I use.
 ---
 
 - [What I Use](#what-i-use)
-  - [Tools and extensions](#tools-and-extensions)
+  - [🛠️ Tools and extensions](#️-tools-and-extensions)
     - [Bash](#bash)
     - [Markdown](#markdown)
     - [YAML](#yaml)
-  - [Software](#software)
-  - [License](#license)
+  - [💻 Software](#-software)
+  - [📃 License](#-license)
 
 ---
 
-## Tools and extensions
+## 🛠️ Tools and extensions
 
 ### Bash
 
@@ -41,14 +41,14 @@ A collection of cool software and programs that I use.
 | yamllint | <https://github.com/adrienverge/yamllint> |
 | yq       | <https://github.com/mikefarah/yq>         |
 
-## Software
+## 💻 Software
 
 | Name               | URL                              |
 | :----------------- | :------------------------------- |
 | Visual Studio Code | <https://code.visualstudio.com/> |
 | Zed                | <https://zed.dev/>               |
 
-## License
+## 📃 License
 
 [![License: Unlicense](https://img.shields.io/badge/License-Unlicense-green.svg)](https://unlicense.org/)
 
