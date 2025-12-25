@@ -40,6 +40,9 @@ A collection of cool software and programs that I use.
   - [yamllint](https://github.com/adrienverge/yamllint) -  A linter for YAML files.
   - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor.
 
+- Visual Studio Code:
+  - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes syntax support.
+
 ## 💻 Software
 
 - [Visual Studio Code](https://code.visualstudio.com/)
