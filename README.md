@@ -2,8 +2,6 @@
 
 A collection of cool software and programs that I use.
 
----
-
 - [What I Use](#what-i-use)
   - [🛠️ Tools and extensions](#️-tools-and-extensions)
     - [Bash](#bash)
@@ -11,8 +9,6 @@ A collection of cool software and programs that I use.
     - [YAML](#yaml)
   - [💻 Software](#-software)
   - [📃 License](#-license)
-
----
 
 ## 🛠️ Tools and extensions
 
