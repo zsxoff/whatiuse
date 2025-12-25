@@ -7,6 +7,7 @@ A collection of cool software and programs that I use.
 - [What I Use](#what-i-use)
   - [Tools and extensions](#tools-and-extensions)
     - [Markdown](#markdown)
+    - [YAML](#yaml)
   - [License](#license)
 
 ---
@@ -21,6 +22,13 @@ A collection of cool software and programs that I use.
 | VS Code - markdownlint        | <https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint> |
 | VS Code - Markdown All in One | <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one>     |
 | Neovim - render-markdown.nvim | <https://github.com/MeanderingProgrammer/render-markdown.nvim>                       |
+
+### YAML
+
+| Name     | URL                                       |
+| :------- | :---------------------------------------- |
+| yamllint | <https://github.com/adrienverge/yamllint> |
+| yq       | <https://github.com/mikefarah/yq>         |
 
 ## License
 
