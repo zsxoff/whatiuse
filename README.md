@@ -18,35 +18,36 @@ A collection of cool software and programs that I use.
 
 ### Bash
 
-| Name                   | URL                                                                             |
-| :--------------------- | :------------------------------------------------------------------------------ |
-| shfmt                  | <https://github.com/mvdan/sh>                                                   |
-| ShellCheck             | <https://github.com/koalaman/shellcheck>                                        |
-| VS Code - ShellCheck   | <https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck>      |
-| VS Code - shell-format | <https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format> |
+- Command-line:
+  - [shfmt](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt.
+  - [ShellCheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts.
+
+- Visual Studio Code:
+  - [shell-format](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format) - A formatter for shell scripts, Dockerfile, gitignore, dotenv, /etc/hosts, jvmoptions, and other file types.
+  - [ShellCheck](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck) - Integrates ShellCheck into VS Code, a linter for Shell scripts.
 
 ### Markdown
 
-| Name                          | URL                                                                                  |
-| :---------------------------- | :----------------------------------------------------------------------------------- |
-| markdownlint-cli2             | <https://github.com/DavidAnson/markdownlint-cli2>                                    |
-| VS Code - markdownlint        | <https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint> |
-| VS Code - Markdown All in One | <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one>     |
-| Neovim - render-markdown.nvim | <https://github.com/MeanderingProgrammer/render-markdown.nvim>                       |
+- Command-line:
+  - [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2) - A fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library.
+
+- Visual Studio Code:
+  - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code.
+  - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more).
+
+- Neovim:
+  - [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim.
 
 ### YAML
 
-| Name     | URL                                       |
-| :------- | :---------------------------------------- |
-| yamllint | <https://github.com/adrienverge/yamllint> |
-| yq       | <https://github.com/mikefarah/yq>         |
+- Command-line:
+  - [yamllint](https://github.com/adrienverge/yamllint) -  A linter for YAML files.
+  - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor.
 
 ## 💻 Software
 
-| Name               | URL                              |
-| :----------------- | :------------------------------- |
-| Visual Studio Code | <https://code.visualstudio.com/> |
-| Zed                | <https://zed.dev/>               |
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Zed](https://zed.dev/)
 
 ## 📃 License
 
