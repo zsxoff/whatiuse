@@ -38,7 +38,7 @@ A collection of cool software and programs that I use.
 ### YAML
 
 - Command-line:
-  - [yamllint](https://github.com/adrienverge/yamllint) -  A linter for YAML files.
+  - [yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
   - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor.
 
 - Visual Studio Code:
