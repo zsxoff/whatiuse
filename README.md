@@ -7,8 +7,8 @@ A collection of cool software and programs that I use.
     - [Bash](#bash)
     - [Markdown](#markdown)
     - [YAML](#yaml)
-  - [🖥️ Console](#️-console)
-  - [💻 Software](#-software)
+  - [🖥️ CLI](#️-cli)
+  - [💻 Desktop](#-desktop)
   - [📃 License](#-license)
 
 ## 🛠️ Tools and extensions
@@ -44,14 +44,14 @@ A collection of cool software and programs that I use.
 - Visual Studio Code:
   - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) - YAML Language Support by Red Hat, with built-in Kubernetes syntax support.
 
-## 🖥️ Console
+## 🖥️ CLI
 
 - [eza](https://github.com/eza-community/eza) - A modern alternative to ls.
 - [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
 - [starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
 - [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
-## 💻 Software
+## 💻 Desktop
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Zed](https://zed.dev/)
