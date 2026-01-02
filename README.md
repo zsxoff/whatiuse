@@ -46,6 +46,7 @@ A collection of cool software and programs that I use.
 
 ## 🖥️ CLI
 
+- [bluetui](https://github.com/pythops/bluetui) - TUI for managing bluetooth on Linux.
 - [eza](https://github.com/eza-community/eza) - A modern alternative to ls.
 - [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
 - [starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
