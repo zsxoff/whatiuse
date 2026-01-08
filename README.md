@@ -59,6 +59,7 @@ Earlier:
 
 ## 💻 Desktop
 
+- [kitty](https://github.com/kovidgoyal/kitty)
 - [Visual Studio Code](https://github.com/microsoft/vscode)
 - [Zed](https://github.com/zed-industries/zed)
 
