@@ -47,6 +47,7 @@ A collection of cool software and programs that I use.
 ## 🖥️ CLI
 
 - [bluetui](https://github.com/pythops/bluetui) - TUI for managing bluetooth on Linux.
+- [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [eza](https://github.com/eza-community/eza) - A modern alternative to ls.
 - [gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀.
 - [starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
