@@ -59,8 +59,8 @@ Earlier:
 
 ## 💻 Desktop
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Zed](https://zed.dev/)
+- [Visual Studio Code](https://github.com/microsoft/vscode)
+- [Zed](https://github.com/zed-industries/zed)
 
 ## 📃 License
 
