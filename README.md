@@ -49,6 +49,7 @@ A collection of cool software and programs that I use.
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [eza](https://github.com/eza-community/eza) - A modern alternative to ls.
 - [gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀.
+- [skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust.
 - [starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
 - [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
