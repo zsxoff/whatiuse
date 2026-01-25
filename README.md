@@ -64,6 +64,7 @@ Earlier:
 ## 💻 Desktop
 
 - [kitty](https://github.com/kovidgoyal/kitty)
+- [Mullvad Browser](https://github.com/mullvad/mullvad-browser)
 - [Visual Studio Code](https://github.com/microsoft/vscode)
 - [Zed](https://github.com/zed-industries/zed)
 
