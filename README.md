@@ -46,6 +46,7 @@ A collection of cool software and programs that I use.
 
 ## 🖥️ CLI
 
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [eza](https://github.com/eza-community/eza) - A modern alternative to ls.
 - [gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀.
