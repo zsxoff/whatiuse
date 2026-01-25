@@ -53,6 +53,7 @@ A collection of cool software and programs that I use.
 - [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
 - [skim](https://github.com/skim-rs/skim) - Fuzzy Finder in rust.
 - [starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
+- [tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter.
 - [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
 Linux only:
