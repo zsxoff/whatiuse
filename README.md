@@ -6,6 +6,7 @@ A collection of cool software and programs that I use.
   - [🛠️ Tools and extensions](#️-tools-and-extensions)
     - [Bash](#bash)
     - [Markdown](#markdown)
+    - [SQL](#sql)
     - [YAML](#yaml)
   - [🖥️ CLI](#️-cli)
   - [💻 Desktop](#-desktop)
@@ -34,6 +35,11 @@ A collection of cool software and programs that I use.
 
 - Neovim:
   - [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim.
+
+### SQL
+
+- Command-line:
+  - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
 
 ### YAML
 
