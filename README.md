@@ -8,6 +8,7 @@ A collection of cool software and programs that I use.
     - [Markdown](#markdown)
     - [Spell check](#spell-check)
     - [SQL](#sql)
+    - [TOML](#toml)
     - [YAML](#yaml)
   - [🖥️ CLI](#️-cli)
   - [💻 Desktop](#-desktop)
@@ -47,6 +48,11 @@ A collection of cool software and programs that I use.
 
 - Command-line:
   - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
+
+### TOML
+
+- Command-line:
+  - [Tombi](https://github.com/tombi-toml/tombi) - TOML Formatter / Linter / Language Server.
 
 ### YAML
 
