@@ -80,6 +80,8 @@ Linux only:
 
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [Mullvad Browser](https://github.com/mullvad/mullvad-browser)
+- [qBittorrent](https://www.qbittorrent.org/)
+- [Thunderbird](https://www.thunderbird.net)
 - [Visual Studio Code](https://github.com/microsoft/vscode)
 - [Zed](https://github.com/zed-industries/zed)
 
