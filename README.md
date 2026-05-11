@@ -6,6 +6,7 @@ A collection of cool software and programs that I use.
   - [🛠️ Tools and extensions](#️-tools-and-extensions)
     - [Bash](#bash)
     - [Markdown](#markdown)
+    - [Spell check](#spell-check)
     - [SQL](#sql)
     - [YAML](#yaml)
   - [🖥️ CLI](#️-cli)
@@ -35,6 +36,12 @@ A collection of cool software and programs that I use.
 
 - Neovim:
   - [render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim.
+
+### Spell check
+
+- Command-line:
+  - [autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
+  - [codespell](https://github.com/codespell-project/codespell) - Check code for common misspellings.
 
 ### SQL
 
