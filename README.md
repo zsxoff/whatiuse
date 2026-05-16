@@ -59,7 +59,6 @@ A collection of cool software and programs that I use.
 
 - Command-line:
   - [yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
-  - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor.
 
 - LSP
   - [yaml-language-server](https://github.com/redhat-developer/yaml-language-server)
@@ -78,6 +77,7 @@ A collection of cool software and programs that I use.
 - [starship](https://github.com/starship/starship) - The minimal, blazing-fast, and infinitely customizable prompt for any shell.
 - [tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter.
 - [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager written in Rust, based on async I/O.
+- [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor.
 
 Linux only:
 
