@@ -11,6 +11,7 @@ A collection of cool software and programs that I use.
     - [TOML](#toml)
     - [YAML](#yaml)
   - [🖥️ CLI](#️-cli)
+  - [🔒 Security](#-security)
   - [💻 Desktop](#-desktop)
   - [📃 License](#-license)
 
@@ -81,6 +82,12 @@ A collection of cool software and programs that I use.
 Linux only:
 
 - [bluetui](https://github.com/pythops/bluetui) - TUI for managing bluetooth on Linux.
+
+## 🔒 Security
+
+- [Gitleaks](https://github.com/gitleaks/gitleaks)
+- [Grype](https://github.com/anchore/grype)
+- [Trivy](https://github.com/aquasecurity/trivy)
 
 ## 💻 Desktop
 
